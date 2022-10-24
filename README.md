@@ -4,7 +4,7 @@
 
 ### Facundo Mémoli 
 
-![dGH]./(dgh-f-g-Z.jpg "Optional title")
+![dGH]./(dgh-f-g-Z.jpg)
 
 ## Times: MoWe 1:50PM - 3:10PM 
 ## Room: Bolz Hall 128
