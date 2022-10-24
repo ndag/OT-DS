@@ -5,7 +5,7 @@
 
 ![dGH](./dgh-f-g-Z.jpg)
 
-## Instructor: Facundo Mémoli 
+## Instructor: Facundo Mémoli http://facundo-memoli.org/
 ## Times: MoWe 1:50PM - 3:10PM 
 ## Room: Bolz Hall 128
 ## Credits: 3
