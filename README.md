@@ -19,7 +19,9 @@ Some recently developed tools coming from the field of Optimal Transport (OT) ha
 
 Some ideas from OT are naturally found in probability theory in the form of the Wasserstein distance between probability measures on a Polish space. This notion of distance metrizes weak convergence of measures and has a lot of interesting properties which interact nicely with synthetic notions of Ricci curvature on metric measure spaces.
 
-The Wasserstein can be gromovized in different ways to produce notions of distance (often called Gromov-Wasserstein distances) between datasets which have found many applications in machine learning in recent years. In particular, Sturm has found that some quasi-Riemannian structures can be identified for a certain variant of this distance in a context in which it becomes possible to even consider gradient and heat flows of metric measure spaces – concepts which have potential applications to data science (in the form of objective based data processing, or data smoothing).
+The Wasserstein can be gromovized in different ways to produce notions of distance (often called Gromov-Wasserstein distances) between datasets which have found many applications in machine learning in recent years. 
+
+On the theoretical front, Sturm has found that some quasi-Riemannian structures can be identified for a certain variant of this distance in a context in which it becomes possible to even consider gradient and heat flows of metric measure spaces – concepts which have potential applications to data science (in the form of objective based data processing, or data smoothing).
 
 This course will focus on theoretical aspects as well as on applications.
 
