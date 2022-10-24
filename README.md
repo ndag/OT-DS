@@ -19,14 +19,14 @@ This course will focus on theoretical aspects as well as on applications.
 ## References: 
 This course will be based on my own lecture notes but will also follow material from several recent research and expository papers such as:
 
-Memoli, Facundo. “Gromov–Wasserstein distances and the metric approach to object matching.” Foundations of computational mathematics 11.4 (2011): 417- 487.
+[Mem11] Memoli, Facundo. “Gromov–Wasserstein distances and the metric approach to object matching.” Foundations of computational mathematics 11.4 (2011): 417- 487.
 
-Sturm, Karl-Theodor. “The space of spaces: curvature bounds and gradient flows on the space of metric measure spaces.” arXiv preprint arXiv:1208.0434 (2012).
+[Sturm12]Sturm, Karl-Theodor. “The space of spaces: curvature bounds and gradient flows on the space of metric measure spaces.” arXiv preprint arXiv:1208.0434 (2012).
 
 and also chapters from the following books:
 
-• Villani, C ́edric. “Topics in optimal transportation.” Vol. 58. American Mathemat- ical Soc., 2021.
+[Villani21] Villani, Cedric. “Topics in optimal transportation.” Vol. 58. American Mathemat- ical Soc., 2021.
 
-Peyre, Gabriel, and Marco Cuturi. “Computational optimal transport: With ap- plications to data science.” Foundations and Trends in Machine Learning 11.5-6 (2019): 355-607.
+[PeyreCuturi19] Peyre, Gabriel, and Marco Cuturi. “Computational optimal transport: With ap- plications to data science.” Foundations and Trends in Machine Learning 11.5-6 (2019): 355-607.
 
-Villani, C ́edric. “Optimal transport: old and new.” Vol. 338. Berlin: Springer, 2009. 
+[Villani09] Villani, Cedric. “Optimal transport: old and new.” Vol. 338. Berlin: Springer, 2009. 
