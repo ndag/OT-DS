@@ -3,7 +3,7 @@
 ### MATH 8610 - Spring 2023
 
 
-![dGH](./dgh-f-g-Z.jpg)
+![dGH](./GW-MRC.001.jpg)
 
 ## Instructor: http://facundo-memoli.org/
 ## Times: MoWe 1:50PM - 3:10PM 
