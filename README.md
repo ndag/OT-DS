@@ -4,6 +4,11 @@
 
 ### Facundo Mémoli 
 
+## Times: MoWe 1:50PM - 3:10PM 
+## Room: Bolz Hall 128
+## Credits: 3
+## Assessment: Lectures/projects and/or TBA
+
 ## Course Description
 
 The last few years have seen the rapid development of mathematical methods for the analysis of data arising in machine learning, biology and computer vision applications, amongst others.
